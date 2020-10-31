@@ -28,5 +28,5 @@ The following customer travel destination map has been created by using input st
 
 The following travel itinerary map has been created by using the Google Maps Directions API that shows the route between four cities chosen from the customer’s possible travel destinations. Then, creating a marker layer map with a pop-up marker for each city on the itinerary.
 
-![](
+![](https://github.com/Nazanin-hub/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 ![](https://github.com/Nazanin-hub/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
