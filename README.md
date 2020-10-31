@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-PlanMyTrip is a top travel technology company that specializes in Internet related services in the hotel and Jack is a head of analysis for the user interface team. I helped him to filter the data for the weather preferences, which will be used to identify potential travel destinations and nearby hotels.Then, from the list of potential travel destinations, I choosed four cities to create a travel itinerary. Finally, using the Google Maps Directions API, created a travel route between the four cities as well as a marker layer map.
+PlanMyTrip is a top travel technology company that specializes in Internet-related services in the hotel and Jack is ahead of analysis for the user interface team. I helped him to filter the data for the weather preferences, which will be used to identify potential travel destinations and nearby hotels. Then, from the list of potential travel destinations, I chose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, I created a travel route between the four cities as well as a marker layer map.
 
 ## Resources
 
@@ -13,7 +13,7 @@ PlanMyTrip is a top travel technology company that specializes in Internet relat
 
 ### Retrieve Weather Data
 
-I used jupyter notebook and a citipy module to get cities for 2000 random latitude and longitude. Then, I performed request on the OpenWeatherMap API to retrieve weather data from cities. The following table is the result:
+I used jupyter notebook and a citipy module to get cities for 2000 random latitude and longitude. Then, I performed a request on the OpenWeatherMap API to retrieve weather data from cities. The following table is the result:
 
 ![](https://github.com/Nazanin-hub/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database%20Result.png)
 
