@@ -16,4 +16,5 @@ I used jupyter notebook and a citipy module to get cities for 2000 random latitu
 ### Create a Customer Travel Destinations Map
 
 The below picture is the result of using input statements to retrieve customer weather preferences, then using those preferences to identify potential travel destinations and nearby hotels.
-![](
+
+![](https://github.com/Nazanin-hub/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
