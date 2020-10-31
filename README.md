@@ -20,12 +20,12 @@ I used jupyter notebook and a citipy module to get cities for 2000 random latitu
 
 ### Create a Customer Travel Destinations Map
 
-The below image is the result of using input statements to retrieve customer weather preferences, then using those preferences to identify potential travel destinations and nearby hotels.
+The following customer travel destination map has been created by using input statements to retrieve customer weather preferences and requests to the Google Maps and Places API, then using those preferences to identify potential travel destinations and nearby hotels.
 
 ![](https://github.com/Nazanin-hub/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Create a Travel Itinerary Map
 
-The below image is the result of using the Google Maps Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, creating a marker layer map with a pop-up marker for each city on the itinerary.
+The following travel itinerary map has been created by using the Google Maps Directions API that shows the route between four cities chosen from the customer’s possible travel destinations. Then, creating a marker layer map with a pop-up marker for each city on the itinerary.
 
 ![](https://github.com/Nazanin-hub/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
