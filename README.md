@@ -7,7 +7,7 @@ PlanMyTrip is a top travel technology company that specializes in Internet relat
 ## Resources
 
   - Data Source: citipy, jupyter-gmaps, OpenWeatherMap API, Google Maps and Places API, Google Maps Directions API
-  - Software: Python 3.8.3, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
+  - Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3
 
 ## Results
 
