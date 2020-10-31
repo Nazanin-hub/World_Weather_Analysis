@@ -21,6 +21,6 @@ The below image is the result of using input statements to retrieve customer wea
 
 ### Create a Travel Itinerary Map
 
-The below image is the result of using the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, creating a marker layer map with a pop-up marker for each city on the itinerary.
+The below image is the result of using the Google Maps Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, creating a marker layer map with a pop-up marker for each city on the itinerary.
 
 ![](https://github.com/Nazanin-hub/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
