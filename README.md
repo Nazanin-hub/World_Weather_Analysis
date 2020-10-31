@@ -9,3 +9,5 @@ PlanMyTrip is a top travel technology company that specializes in Internet relat
 ### Retrieve Weather Data
 
 Using jupyter notebook and a citipy module to get cities for 2000 random latitude and longitude.
+
+![](https://github.com/Nazanin-hub/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database%20Result.png)
