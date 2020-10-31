@@ -13,7 +13,7 @@ PlanMyTrip is a top travel technology company specialized in internet related se
 
 ### Retrieve Weather Data
 
-I used jupyter notebook and a citipy module to get cities for 2000 random latitude and longitude. Then, I performed requests from OpenWeatherMap API to retrieve weather data for the cities. The following table is asample of the result:
+I used jupyter notebook and a citipy module to get cities for 2000 random latitude and longitude. Then, I performed requests from OpenWeatherMap API to retrieve weather data for the cities. The following table is a sample of the result:
 
 ![](https://github.com/Nazanin-hub/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database%20Result.png)
 
